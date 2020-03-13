@@ -1,11 +1,11 @@
-Package: DLG
-Section: System
+Package: hyc.pmzd.pukgfunne
+Version: 1.0
+Section: 游戏
 Maintainer: 木瞳pupil
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb_files/DLG.deb
-Version: .0.1-1
-Depends: firmware (>= 99.0)
-Description: DLG修改器
-Name: DLG修改器
+Filename: ./deb/和平精英【蓝天可语音】.deb
+Installed-Size: 1064
+Name: 和平精英【蓝天可语音】
 Author: 木瞳Pupil
-Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
+Description: 除草 线条
