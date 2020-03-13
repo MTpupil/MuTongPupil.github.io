@@ -1,9 +1,9 @@
-Origin: 木瞳Pupil
-Label: 木瞳Pupil
+Origin: April
+Label: April
 Suite: stable
-Version: 1.0.1-1
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 木瞳Pupil Repo
+Description: April Repo
 Icon: file://CydiaIcon.png
