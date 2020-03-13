@@ -1,11 +1,11 @@
-Package: com.hongv.test
+Package: DLG修改器
 Section: System
-Maintainer: 红V
+Maintainer: 木瞳pupil
 Architecture: iphoneos-arm
-Filename: ./deb_files/com.hongv.test.deb
-Version: 1.0
+Filename: ./deb_files/DLG修改器.deb
+Version: .0.1-1
 Depends: firmware (>= 99.0)
-Description: 此安装包是空包，请勿安装。
-Name: 测试包
-Author: 红V
+Description: DLG修改器
+Name: DLG修改器
+Author: 木瞳Pupil
 Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
