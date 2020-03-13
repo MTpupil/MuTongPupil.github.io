@@ -4,7 +4,7 @@ Section: 游戏
 Maintainer: 木瞳pupil
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/和平精英【蓝天可语音】.deb
+Filename: ./和平精英【蓝天可语音】.deb
 Installed-Size: 1064
 Name: 和平精英【蓝天可语音】
 Author: 木瞳Pupil
