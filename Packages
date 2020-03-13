@@ -2,7 +2,7 @@ Package: DLG
 Section: System
 Maintainer: 木瞳pupil
 Architecture: iphoneos-arm
-Filename: ./deb_files/DLG修改器.deb
+Filename: ./deb_files/DLG.deb
 Version: .0.1-1
 Depends: firmware (>= 99.0)
 Description: DLG修改器
