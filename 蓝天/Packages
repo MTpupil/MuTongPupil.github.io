@@ -1,0 +1,11 @@
+Package: hyc.pmzd.pukgfunne
+Section: System
+Maintainer: 红V
+Architecture: iphoneos-arm
+Filename: ./com.hongv.test.deb
+Version: 1.0
+Depends: 
+Description: 此安装包是空包，请勿安装。
+Name: 测试包
+Author: 红V
+Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04

@@ -1,11 +1,11 @@
-Package: hyc.pmzd.pukgfunne
-Section: System
-Maintainer: 红V
+Package: mt.wxxbkb
+Section: 木瞳-软件增强
+Maintainer: 木瞳Pupil
 Architecture: iphoneos-arm
-Filename: ./com.hongv.test.deb
+Filename: ./mt.wxxbkb.deb
 Version: 1.0
 Depends: 
-Description: 此安装包是空包，请勿安装。
-Name: 测试包
-Author: 红V
+Description: 修改微信性别为空白
+Name: 微信性别空白
+Author: 木瞳Pupil
 Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
