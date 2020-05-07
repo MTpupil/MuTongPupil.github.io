@@ -2,7 +2,7 @@ Package: mt.wxxbkb.ziyong
 Section: 木瞳-软件增强
 Maintainer: 木瞳Pupil
 Architecture: iphoneos-arm
-Filename: ./微信性别空白.deb
+Filename: ./deb/微信性别空白.deb
 Version: 1.0-1
 Depends: mobilesubstrate
 Description: 修改微信性别为空白,随意选择返回即可。
